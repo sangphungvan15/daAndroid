@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/activity_danhsachalbum_main.xml" value="0.1408514492753623" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/activity_danhsachchude.xml" value="0.14628623188405798" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/activity_danhsachchude_main.xml" value="0.15172101449275363" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/activity_danhsachplaylist.xml" value="0.11548913043478261" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/activity_danhsachtheloaithechude_main.xml" value="0.14628623188405798" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/dong_allalbum.xml" value="0.1408514492753623" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/dong_danhsachbaihat.xml" value="0.13949275362318841" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/dong_danhsachcacplaylist.xml" value="0.11548913043478261" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/dong_danhsachchude.xml" value="0.14628623188405798" />
+        <entry key="..\:/Git/DAappnhac/app/src/main/res/layout/dong_theloaitheochude.xml" value="0.14628623188405798" />
+        <entry key="..\:/Git/appmusic/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.17889492753623187" />
+        <entry key="..\:/Git/appmusic/app/src/main/res/layout/activity_danhsachbaihat_main.xml" value="0.15534420289855072" />
+        <entry key="..\:/Git/appmusic/app/src/main/res/layout/dong_album.xml" value="0.1983695652173913" />
+        <entry key="..\:/Git/appmusic/app/src/main/res/layout/dong_baihat.xml" value="0.1947463768115942" />
+        <entry key="..\:/Git/appmusic/app/src/main/res/layout/fragment_album.xml" value="0.1983695652173913" />
+        <entry key="..\:/Git/appmusic/app/src/main/res/layout/fragment_baihat.xml" value="0.1947463768115942" />
+        <entry key="..\:/Git/appmusic/app/src/main/res/layout/fragment_trang_chu.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/drawable/custom_background_banner.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/layout/dong_banner.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/layout/dong_playlist.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/layout/fargment_playlist.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/layout/fragment_banner.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/layout/fragment_trang_chu.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Sang/AndroidStudioProjects/HelloWord/app/src/main/res/layout/frangment_chude_theloai.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
