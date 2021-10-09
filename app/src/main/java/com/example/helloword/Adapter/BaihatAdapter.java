@@ -64,33 +64,7 @@ public class BaihatAdapter extends RecyclerView.Adapter<BaihatAdapter.ViewHolder
             txtcasi = itemView.findViewById(R.id.textviewcasibaihat);
             imghinh = itemView.findViewById(R.id.imageviewbaihat);
             imgluotthich = imghinh.findViewById(R.id.imageviewluotthich);
-            imgluotthich.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    imghinh.setImageResource(R.drawable.iconloved);
-                    Dataservice dataservice = APIService.getService();
-                    Call<String> callback = dataservice.Updateluotthich("1",baihatArrayList.get(getPosition()).getIdbaihat());
-                    callback.enqueue(new Callback<String>() {
-                        @Override
-                        public void onResponse(Call<String> call, Response<String> response) {
-                            String ketqua = response.body();
-                            if (ketqua.equals("tk")){
-                                Toast.makeText(context, "Da thich", Toast.LENGTH_SHORT).show();
-                            } else
-                            {
-                                Toast.makeText(context, "Loi", Toast.LENGTH_SHORT).show();
-                            }
-                        }
 
-                        @Override
-                        public void onFailure(Call<String> call, Throwable t) {
-
-                        }
-                    });
-                    imgluotthich.setEnabled(false);
-
-                }
-            });
         }
     }
 }
